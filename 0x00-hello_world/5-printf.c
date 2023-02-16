@@ -1,6 +1,6 @@
 #include <studio.h>
 /**
- * main - A program that prints using printf.
+ * main - A program that prints exactly with proper gr
  * Return: 0 (success)
  */
 int main(void)
